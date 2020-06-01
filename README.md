@@ -38,7 +38,7 @@ Aate ♾ 2020 March
 
 Version 👁‍🗨 1.1.0
 
-Usage 👌 cd Scraper_Instagram 
+Usage 👌 cd haxk4lx_toolkit.py
 
 Channel  Combo List 👍  [![Telegram Chanel](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lxCombo)
 
